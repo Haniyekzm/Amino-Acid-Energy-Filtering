@@ -18,5 +18,5 @@ This tool offers a straightforward approach to:
 - Input: list of amino acids with associated energy values  
 - Output: subset of amino acids with negative energy  
 - Lightweight and fast  
-- Easy to integrate into molecular dynamics (MD) post-processing pipelines  
+- Easy to integrate into molecular dynamics (MD) post-processing pipelines.  
 
